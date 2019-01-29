@@ -137,6 +137,20 @@ GitHub also supports its own flavor of Markdown.
 
 ---
 
+## GH: Strikethrough
+
+I don't like ~~this text~~ specifically.
+
+---
+
+## GH: Tables
+
+| Header Left | Header Center | Header Right |
+| :-- | :-: | --: |
+| Left text | Center text | Right text
+
+---
+
 ## GH: Task lists
 
 - [x] This is a complete item
