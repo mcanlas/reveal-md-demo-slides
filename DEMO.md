@@ -34,6 +34,15 @@ Donec neque arcu, varius in libero non, volutpat consectetur enim.
 
 ---
 
+## Horizontal rule
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+--------------------------------------------------------
+Donec neque arcu, varius in libero non, volutpat consectetur enim.
+
+---
+
 ## Inline styles
 
 Feeling **bold**. Feeling *italic*. Feeling ***bold and italic***.
