@@ -8,3 +8,9 @@ various features of Markdown.
 
 At worst, the Markdown document also functions as a demonstration of
 Markdown itself, interspersed with many horizontal lines.
+
+## Generate PDF examples
+
+```bash
+./print-commands.amm | bash
+```
