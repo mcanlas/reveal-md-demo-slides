@@ -90,8 +90,9 @@ val themes = List("a11y-dark",
 "xt256",
 "zenburn")
 
-for (t <- themes) {
-  val port = 8000 + scala.util.Random.nextInt(3000)
+var port = 8000
 
+for (t <- themes) {
   println(s"reveal-md --highlight-theme $t SCALA-CODE.md --print code-$t.pdf --port $port &")
+  port += 1
 }
