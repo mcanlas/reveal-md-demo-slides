@@ -93,6 +93,6 @@ val themes = List("a11y-dark",
 var port = 8000
 
 for (t <- themes) {
-  println(s"reveal-md --highlight-theme $t SCALA-CODE.md --print code-$t.pdf --port $port &")
+  println(s"reveal-md --highlight-theme $t SCALA-CODE.md --print code-$t.pdf --port $port")
   port += 1
 }
