@@ -12,5 +12,5 @@ Markdown itself, interspersed with many horizontal lines.
 ## Generate PDF examples
 
 ```bash
-./print-commands.amm | bash
+./print-commands.sc | bash
 ```

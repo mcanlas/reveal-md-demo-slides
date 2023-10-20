@@ -1,4 +1,4 @@
-#!/usr/bin/env amm
+#!/usr/bin/env scala-cli shebang
 
 val themes = List("a11y-dark",
 "a11y-light",

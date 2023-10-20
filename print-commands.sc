@@ -1,4 +1,4 @@
-#!/usr/bin/env amm
+#!/usr/bin/env scala-cli shebang
 
 val themes = Seq("beige", "black", "blood", "league", "moon", "night", "serif", "simple", "sky", "solarized", "white")
 
